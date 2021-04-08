@@ -23,7 +23,7 @@ app.use(
 app.set('views', __dirname + '/views');
 
 // Configuration variables
-var port = 3000;
+var port = 8080;
 
 /**
  * Main page using boostrap

@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8a6ce5f4-c695-40df-a32a-14fae492e833/resourceGroups/SOEN487/providers/Microsoft.Web/sites/nodeJumbotron",
+    "appService.deploySubpath": "."
+}
